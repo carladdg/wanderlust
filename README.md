@@ -43,6 +43,9 @@ This easy-to-use application helps travelers identify interesting places to visi
 ## Features
 Some of Wanderlust's great features include;
 - City Recommendations - When you click on a country to explore, the app generates and recommends three cities in that country based on their overall importance, population size, and popularity as a travel destination.
+
+**NOTE: City Recommendations no longer work, due to the discontinuation of the Sygic API for student use.**
+
 - :dollar: <-> :euro: Currency Conversion - Wanderlust helps travelers budget for their next vacation by showing how far their dollar will go using regularly updated exchange rates!
 - Helpful Phrases - The app pre-populates some travel phrases in the destination's official language. Additionally, users are able to utilize the feature to translate their own words and phrases.
 - :airplane: Book Flights - Through the Skyscanner widget, users can book flights to their destination with just a few clicks. The app tracks the user's current location to find the nearest airport and prefills the destination with the city they are exploring. 
